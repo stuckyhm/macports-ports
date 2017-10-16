@@ -4,6 +4,10 @@ PortSystem          1.0
 
 PortGroup           muniversal 1.0
 PortGroup           cmake 1.0
+PortGroup           github 1.0
+
+github.setup        videolan x265 55fc3fd204d625be34b5b222076957c1d0ea79af
+github.tarball_from releases
 
 name                x265
 version             20171009-git-55fc3fd
@@ -22,8 +26,6 @@ long_description    x265 is a free software library and application for \
                     compression format, and is released under the terms of the \
                     GNU GPL.
 homepage            https://www.videolan.org/developers/x265.html
-master_sites        http://ftp.videolan.org/pub/videolan/x265/
-distname            ${name}_${version}
 worksrcdir          ${distname}/source
 
 depends_build-append \
