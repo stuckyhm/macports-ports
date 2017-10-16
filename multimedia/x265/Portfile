@@ -11,8 +11,8 @@ github.setup        videolan x265 55fc3fd204d625be34b5b222076957c1d0ea79af
 name                x265
 version             20171009-git-55fc3fd
 
-checksums           rmd160  53c9ccfe323b356be649c3afe6c53da32479d557 \
-                    sha256  4b8572e8a7e7b8ac52eb8a25c92e6193ca147cc6ab1186c9ef0387cb6a664df2
+checksums           rmd160  368953072ef690ba71989ebcf5c5e2485dac3641 \
+                    sha256  9307cdbc3a8b09ab3d557a8698c58524af4b998e94b9fda098ada7e6edc8c02f
 
 categories          multimedia
 platforms           darwin
