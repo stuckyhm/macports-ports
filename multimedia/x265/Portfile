@@ -9,7 +9,7 @@ PortGroup           github 1.0
 github.setup        videolan x265 55fc3fd204d625be34b5b222076957c1d0ea79af
 
 name                x265
-version             20171009-git-55fc3fd
+version             git-20171009-55fc3fd
 
 checksums           rmd160  368953072ef690ba71989ebcf5c5e2485dac3641 \
                     sha256  9307cdbc3a8b09ab3d557a8698c58524af4b998e94b9fda098ada7e6edc8c02f
