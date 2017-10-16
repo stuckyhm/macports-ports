@@ -6,11 +6,11 @@ PortGroup           muniversal 1.0
 PortGroup           cmake 1.0
 PortGroup           github 1.0
 
-github.setup        videolan x265 55fc3fd204d625be34b5b222076957c1d0ea79af
+github.setup        videolan x265 55fc3fd204d625be34b5b222076957c1d0ea79affc3fd204d625be34b5b222076957c1d0ea79af
 github.tarball_from releases
 
 name                x265
-version             20171009-git-55fc3fd
+version             20171009-git-55fc3fd-git-55fc3fd
 
 checksums           rmd160  53c9ccfe323b356be649c3afe6c53da32479d557 \
                     sha256  4b8572e8a7e7b8ac52eb8a25c92e6193ca147cc6ab1186c9ef0387cb6a664df2
