@@ -6,13 +6,13 @@ PortGroup           muniversal 1.0
 PortGroup           cmake 1.0
 PortGroup           github 1.0
 
-github.setup        videolan x265 8911cbae1f7f868b213c5c0aa41cf827cdf367bb
+github.setup        videolan x265 9efc910fbdd2ece3739fbcf1b66b6b312b50aca2
 
 name                x265
-version             git-20180525-8911cba
+version             git-20180522-9efc910
 
-checksums           rmd160  a72544e38526c5a2880c7d4d21dc520b5864659b \
-                    sha256  52e6325dc97d52d8f43b87306b4984e4d6ae5b2a1ec91245082da17e99daf157
+checksums           rmd160  248699b831284e72624bc27791b025c9fce12afc \
+                    sha256  168b5fde71d90068b9ade1a20b749dd9c18b04997d52d3b24ead81c9450152a1
 
 categories          multimedia
 platforms           darwin
